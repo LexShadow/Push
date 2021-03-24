@@ -1,0 +1,10 @@
+{
+   "id": "push",
+   "minversion": 202000539514,
+   "info": {
+	   "name": "Push",
+	   "version": "1.0.0.0",	   
+	   "author": "Miss Lexy Shadows",
+	   "description": "This plugin add detection for Shift and Control!"
+   }
+}
