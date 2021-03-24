@@ -1,5 +1,4 @@
 {
-  "message0": "%1 Is Shift Down",
   "args0": [
     {
       "type": "field_image",
@@ -13,7 +12,6 @@
   "inputsInline": true,
   "output": "Boolean",
   "colour": 210,
-  "tooltip": "Is the Shift been pressed down when this action is happening",
   "mcreator": {
     "toolbox_id": "push"
   }
