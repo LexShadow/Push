@@ -5,6 +5,6 @@
 	   "name": "Push",
 	   "version": "1.0.0.1",	   
 	   "author": "Miss Lexy Shadows",
-	   "description": "This plugin add detection for Shift and Control!"
+	   "description": "This plugin add detection for Shift, Alt & Control(Ctrl) keys."
    }
 }
