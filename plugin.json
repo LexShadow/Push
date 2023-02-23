@@ -5,6 +5,8 @@
 	   "name": "Push",
 	   "version": "1.0.0.5",	   
 	   "author": "Miss Lexy Shadows",
-	   "description": "This plugin add detection for Shift, Alt & Control(Ctrl) keys."
+	   "credits": "The MCreator Community.",
+	   "description": "This plugin add detection for Shift, Alt & Control(Ctrl) keys.",
+	   "pluginPageID": 84968
    }
 }
