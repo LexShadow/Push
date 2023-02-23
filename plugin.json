@@ -3,7 +3,7 @@
    "minversion": 202000539514,
    "info": {
 	   "name": "Push",
-	   "version": "1.0.0.2",	   
+	   "version": "1.0.0.4",	   
 	   "author": "Miss Lexy Shadows",
 	   "description": "This plugin add detection for Shift, Alt & Control(Ctrl) keys."
    }
