@@ -7,6 +7,7 @@
 	   "author": "Miss Lexy Shadows",
 	   "credits": "The MCreator Community.",
 	   "description": "This plugin add detection for Shift, Alt & Control(Ctrl) keys.",
+	   "updateJSONURL": "https://raw.githubusercontent.com/LexShadow/Push/main/update.json",
 	   "pluginPageID": 84968
    }
 }
